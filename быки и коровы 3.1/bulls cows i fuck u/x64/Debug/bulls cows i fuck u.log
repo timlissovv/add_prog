@@ -1,0 +1,5 @@
+﻿  bulls cows i fuck u.cpp
+C:\Users\timof\Desktop\bulls cows i fuck u\bulls cows i fuck u\bulls cows i fuck u.cpp(47,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\timof\Desktop\bulls cows i fuck u\bulls cows i fuck u\bulls cows i fuck u.cpp(48,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\timof\Desktop\bulls cows i fuck u\bulls cows i fuck u\bulls cows i fuck u.cpp(118,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  bulls cows i fuck u.vcxproj -> C:\Users\timof\Desktop\bulls cows i fuck u\x64\Debug\bulls cows i fuck u.exe
