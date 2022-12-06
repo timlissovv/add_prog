@@ -1,0 +1,4 @@
+﻿  menu.cpp
+D:\Desktop\Education\Доп\task 4\1st attempt\1st attempt\menu.cpp(222,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Desktop\Education\Доп\task 4\1st attempt\1st attempt\menu.cpp(285,85): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  1st attempt.vcxproj -> D:\Desktop\Education\Доп\task 4\1st attempt\Debug\1st attempt.exe
